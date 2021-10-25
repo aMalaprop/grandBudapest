@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(180deg, #ffeefe, rgb(231, 38, 38));
+    height: 100vh;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin:auto;
+    width: min(70%, 500px);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);
+}
+
+h1{
+    text-align: center;
+    color: rgb(211, 161, 54);
+}
+
